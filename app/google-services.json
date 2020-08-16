@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "267342397751",
+    "firebase_url": "https://chatapp-ed95b.firebaseio.com",
+    "project_id": "chatapp-ed95b",
+    "storage_bucket": "chatapp-ed95b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267342397751:android:9a255a8cf07bb4295c1ab2",
+        "android_client_info": {
+          "package_name": "com.example.vitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267342397751-ok2n1rk3gokct1ba1ebnn6b9ctbo16so.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vitchat",
+            "certificate_hash": "408c7b1c9bcac931f5bc25bf6e61f23e1e752296"
+          }
+        },
+        {
+          "client_id": "267342397751-r5nar15fovms9tm76l8377067bolpq5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD5za-tiUEajqtlBhmSMG1xuirOVGlq98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267342397751-r5nar15fovms9tm76l8377067bolpq5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
